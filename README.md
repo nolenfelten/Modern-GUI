@@ -41,3 +41,6 @@ pip install PyQt5
 Then run the code in GUI.py found here in this repo.
 It will create a web browser widget that you can use to execute HTML/CSS/JS.
 You can even trigger JS functions from Python to send/recieve data to/from Python/JS.
+
+Now you don't have to .pack() every freakin' thing.
+.pack() my ass Tkinter!
